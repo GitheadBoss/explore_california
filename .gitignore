@@ -1,0 +1,6 @@
+# Comment 
+tempfile.txt
+*.zip
+*.gz
+assets/videos/
+!assets/videos/tour_*.mp4
